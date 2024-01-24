@@ -1,5 +1,9 @@
 # Trybefy | database-music-artist - Projeto de Queries SQL
 
+![Static Badge](https://img.shields.io/badge/thercistenes-trybefy-purple)
+![GitHub License](https://img.shields.io/github/license/thercistenesPereira/database-musics-artists)
+
+
 ## Descrição do Projeto
 
 No projeto Trybefy, você será responsável por criar e gerenciar um banco de dados para um aplicativo de Streaming de músicas chamado Trybefy. As principais tarefas incluem a criação de tabelas, inserção de dados, escrita de queries para manipulação e pesquisa de informações.
